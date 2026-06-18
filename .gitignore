@@ -1,0 +1,13 @@
+AnkonAI/app/build/
+*.apk
+*.aab
+
+# 2026 Build Blocks - Do not track heavy binaries
+AnkonAI/app/build/
+**/build/
+**/intermediates/
+**/outputs/
+*.bin
+*.tflite
+*.apk
+**/assets/model.bin
