@@ -44,6 +44,11 @@ Place your TFLite model file at: AnkonAI/app/src/main/assets/model.bin
     ```bash
     ./gradlew installDebug
     ```
+# Want to Clone?
+```bash
+git lfs install
+git clone https://github.com/anknpolley123/Ankonaii.git
+```
 
 ## Built With
 
