@@ -13,7 +13,8 @@
 An Android application with a built-in, offline AI engine using TensorFlow Lite. Featuring a Gemini-inspired chat interface, image support, and optional Firebase cloud sync.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anknpolley123/Ankonaii/main/AnkonAI/app/src/main/res/drawable/ic_launcher.png" alt="AnkonAI Logo" width="120" height="120">
+  <h1>🤖 AnkonAI</h1>
+  <p><strong>Offline Android AI Assistant</strong></p>
 </div>
 
 ---
