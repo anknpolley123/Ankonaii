@@ -156,7 +156,9 @@ By using this application, you agree to these terms.
 </p>
 
 </div>
+
 ---
+
 ## ❤️ Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
