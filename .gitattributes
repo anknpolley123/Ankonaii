@@ -1,0 +1,2 @@
+*.bin filter=lfs diff=lfs merge=lfs -text
+AnkonAI/app/src/main/assets/model.bin filter=lfs diff=lfs merge=lfs -text
