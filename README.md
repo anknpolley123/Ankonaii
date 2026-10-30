@@ -193,7 +193,7 @@ GitHub: "@anknpolley123" (https://github.com/anknpolley123)
 
 
 <p align="center">
-  <b>AnkonAI — Organize Your Thoughts. Build Your Future.</b>
+  <b>Ankonaii — Organize Your Thoughts. Build Your Future.</b>
   <br>
   Made with ❤️ by Ankon Polley
 </p>
