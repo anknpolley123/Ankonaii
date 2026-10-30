@@ -124,9 +124,10 @@ This project uses third-party libraries and models. Users are responsible for co
 
 By using this application, you agree to these terms.
 
+
 </div>
 
-## 🙏 Support Me
+## Support Me
 
 <div align="center">
 
@@ -179,9 +180,20 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-<div align="center">
 
-**Made with ❤️ by [Ankon Polley](https://github.com/anknpolley123)**
+👨‍💻 Developer
 
-</div>
+Ankon Polley
 
+Developer | Programmer | Technology Enthusiast
+
+GitHub: "@anknpolley123" (https://github.com/anknpolley123)
+
+---
+
+
+<p align="center">
+  <b>AnkonAI — Organize Your Thoughts. Build Your Future.</b>
+  <br>
+  Made with ❤️ by Ankon Polley
+</p>
