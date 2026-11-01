@@ -161,6 +161,14 @@ By using this application, you agree to these terms.
 
 ---
 
+## Contact
+
+<p align="left">
+  <a href="mailto:ankonpolley@proton.me"><img src="https://img.shields.io/badge/Proton_Mail-Contact_Me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact Ankon via Proton Mail" /></a>
+</p>
+
+---
+
 ## ❤️ Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
